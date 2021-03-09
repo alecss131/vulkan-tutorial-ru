@@ -5,7 +5,7 @@
 - Часть 1. Вступление
   - [Общее вступление](lessons/part1/chapter1/text.md)
   - [Краткий обзор](lessons/part1/chapter2/text.md)
-  - Настройка окружения
+  - [Настройка окружения](lessons/part1/chapter3/text.md)
 - Часть 2. Первый треугольник
   - Базовая структура
   - Hello window
