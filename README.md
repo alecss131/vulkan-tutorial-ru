@@ -16,7 +16,7 @@
   - Отображение на экране
     - [Window surface](lessons/part2/chapter2-1/text.md)
     - [Swap chain](lessons/part2/chapter2-2/text.md)
-    - Image views
+    - [Image views](lessons/part2/chapter2-3/text.md)
   - Графический конвейер \(pipeline\)
   - Отрисовка
   - Повторное создание цепочки показа
