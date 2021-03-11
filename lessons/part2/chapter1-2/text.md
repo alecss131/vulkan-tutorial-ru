@@ -145,6 +145,8 @@ std::vector<const char*> getRequiredExtensions() {
 
 Расширения GLFW являются обязательными, а расширение отладочного мессенджера добавляется в зависимости от условий. Обратите внимание, что мы используем макрос `VK_EXT_DEBUG_UTILS_EXTENSION_NAME`, который позволяет избежать опечаток. 
 
+> На windows функция `glfwGetRequiredInstanceExtensions` возвращает всего 2 расширения (строки), это `VK_KHR_surface` и `VK_KHR_win32_surface`.
+
 Теперь мы можем использовать эту функцию в createInstance:
 
 ```cpp
