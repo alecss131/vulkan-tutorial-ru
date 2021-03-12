@@ -77,9 +77,10 @@ if (physicalDevice == VK_NULL_HANDLE) {
 
 Чтобы проверить, отвечает ли устройство заданным требованиям, вы можете запросить дополнительные данные. Основные свойства устройства, такие как имя, тип и поддерживаемая версия Vulkan, запрашиваются с помощью vkGetPhysicalDeviceProperties.
 
+```cpp
 VkPhysicalDeviceProperties deviceProperties;
 vkGetPhysicalDeviceProperties(device, &deviceProperties);
-
+```
 
 Информация о поддержке опциональных возможностей, таких как, сжатие текстур, 64-битные числа с плавающей точкой и рендеринг в несколько viewport-ов (multi viewport rendering) запрашивается с помощью [vkGetPhysicalDeviceFeatures](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/man/html/vkGetPhysicalDeviceProperties.html):
 
