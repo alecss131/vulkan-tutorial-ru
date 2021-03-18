@@ -18,6 +18,11 @@
     - [Swap chain](lessons/part2/chapter2-2/text.md)
     - [Image views](lessons/part2/chapter2-3/text.md)
   - Графический конвейер \(pipeline\)
+    - [Вступление](lessons/part2/chapter3-1/text.md)
+    - [Шейдерные модули](lessons/part2/chapter3-1/text.md#%D1%88%D0%B5%D0%B9%D0%B4%D0%B5%D1%80%D0%BD%D1%8B%D0%B5-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8)
+    - Непрограммируемые этапы
+    - Проходы рендера
+    - Заключение
   - Отрисовка
   - Повторное создание цепочки показа
 - Буферы вершин
