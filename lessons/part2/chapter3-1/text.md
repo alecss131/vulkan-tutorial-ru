@@ -389,4 +389,4 @@ VkPipelineShaderStageCreateInfo shaderStages[] = {vertShaderStageInfo, fragShade
 
 В этой главе мы рассмотрели только программируемые этапы конвейера. В следующей главе мы перейдем к непрограммируемым этапам.
 
-[Код C++](09_shader_modules.cpp)
+[Код C++](09_shader_modules.cpp)/[Вершинный шейдер](09_shader_base.vert)/[Фрагментный шейдер](09_shader_base.frag)
