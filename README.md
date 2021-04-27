@@ -1,4 +1,4 @@
-# Сборник [переводов](https://m.habr.com/ru/post/543288/) сайта [vulkan-tutorial.com](https://vulkan-tutorial.com/)
+# Сборник [переводов](https://habr.com/ru/post/554492/) сайта [vulkan-tutorial.com](https://vulkan-tutorial.com/)
 
 ## Содержание
 
@@ -20,7 +20,7 @@
   - Графический конвейер \(pipeline\)
     - [Вступление](lessons/part2/chapter3-1/text.md)
     - [Шейдерные модули](lessons/part2/chapter3-1/text.md#%D1%88%D0%B5%D0%B9%D0%B4%D0%B5%D1%80%D0%BD%D1%8B%D0%B5-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B8)
-    - Непрограммируемые этапы
+    - [Непрограммируемые этапы](lessons/part2/chapter3-2/text.md)
     - Проходы рендера
     - Заключение
   - Отрисовка
