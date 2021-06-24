@@ -1,4 +1,4 @@
-# Сборник [переводов](https://habr.com/ru/post/554492/) сайта [vulkan-tutorial.com](https://vulkan-tutorial.com/)
+# Сборник [переводов](https://habr.com/ru/post/564100/) сайта [vulkan-tutorial.com](https://vulkan-tutorial.com/)
 
 ## Содержание
 
@@ -24,6 +24,8 @@
     - [Проходы рендера](lessons/part2/chapter3-3/text.md)
     - [Заключение](lessons/part2/chapter3-3/text.md#%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)
   - Отрисовка
+    - [Фреймбуферы](lessons/part2/chapter4-1/text.md)
+    - [Буферы команд](lessons/part2/chpater4-1/text.md#%D0%B1%D1%83%D1%84%D0%B5%D1%80%D1%8B-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4)
   - Повторное создание цепочки показа
 - Буферы вершин
   - Описание
