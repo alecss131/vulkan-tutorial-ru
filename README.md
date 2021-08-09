@@ -29,7 +29,7 @@
     - [Рендеринг и отображение на экране](lessons/part2/chapter4-2/text.md)
   - [Повторное создание цепочки показа](lessons/part2/chapter5/text.md)
 - Буферы вершин
-  - Описание
+  - [Описание](lessons/part3/chapter1/text.md)
   - Создание буфера вершин
   - Staging буфер
   - Буфер индексов
