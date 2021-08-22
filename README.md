@@ -1,4 +1,4 @@
-# Сборник [переводов](https://habr.com/ru/post/569912/) сайта [vulkan-tutorial.com](https://vulkan-tutorial.com/)
+# Сборник [переводов](https://habr.com/ru/post/573920/) сайта [vulkan-tutorial.com](https://vulkan-tutorial.com/)
 
 ## Содержание
 
@@ -30,7 +30,7 @@
   - [Повторное создание цепочки показа](lessons/part2/chapter5/text.md)
 - Буферы вершин
   - [Описание](lessons/part3/chapter1/text.md)
-  - Создание буфера вершин
+  - [Создание буфера вершин](lessons/part3/chapter2/text.md)
   - Staging буфер
   - Буфер индексов
 - Uniform-буферы
