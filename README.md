@@ -1,4 +1,4 @@
-# Сборник [переводов](https://habr.com/ru/post/578956/) сайта [vulkan-tutorial.com](https://vulkan-tutorial.com/)
+# Сборник [переводов](https://habr.com/ru/post/579600/) сайта [vulkan-tutorial.com](https://vulkan-tutorial.com/)
 
 ## Содержание
 
@@ -32,7 +32,7 @@
   - [Описание](lessons/part3/chapter1/text.md)
   - [Создание буфера вершин](lessons/part3/chapter2/text.md)
   - [Staging буфер](lessons/part3/chapter3/text.md)
-  - Буфер индексов
+  - [Буфер индексов](lessons/part3/chapter4/text.md)
 - Uniform-буферы
   - Дескриптор layout и буфера
   - Дескриптор пула и sets
