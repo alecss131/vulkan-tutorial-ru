@@ -1,4 +1,4 @@
-# Сборник [переводов](https://habr.com/ru/post/582838/) сайта [vulkan-tutorial.com](https://vulkan-tutorial.com/)
+# Сборник [переводов](https://habr.com/ru/post/584554/) сайта [vulkan-tutorial.com](https://vulkan-tutorial.com/)
 
 ## Содержание
 
@@ -35,7 +35,7 @@
   - [Буфер индексов](lessons/part3/chapter4/text.md)
 - Uniform-буферы
   - [Дескриптор layout и буфера](lessons/part4/chapter1/text.md)
-  - Дескриптор пула и sets
+  - [Дескриптор пула и sets](lessons/part4/chapter2/text.md)
 - Текстурирование
   - Изображения
   - Image view и image sampler
