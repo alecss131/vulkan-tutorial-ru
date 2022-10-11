@@ -154,11 +154,12 @@ for (uint32_t i = 0; i < memProperties.memoryTypeCount; i++) {
 
 Теперь, когда подходящий тип памяти найден, мы можем выделить ее, заполнив структуру VkMemoryAllocateInfo.
 
+```cpp
 VkMemoryAllocateInfo allocInfo{};
 allocInfo.sType = VK_STRUCTURE_TYPE_MEMORY_ALLOCATE_INFO;
 allocInfo.allocationSize = memRequirements.size;
 allocInfo.memoryTypeIndex = findMemoryType(memRequirements.memoryTypeBits, VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT | VK_MEMORY_PROPERTY_HOST_COHERENT_BIT);
-
+```
 
 Создадим член класса для хранения дескриптора памяти и выделим ее с помощью [vkAllocateMemory](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/man/html/VkMemoryAllocateInfo.html).
 
